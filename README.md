@@ -1,30 +1,17 @@
-# 🖼️ Image Recognition Using CNN
-
+# Image Recognition using CNN:
 A Deep Learning project focused on **Image Recognition using Convolutional Neural Networks (CNNs)**.
-
 The project demonstrates how a CNN can be used to process image data, learn visual patterns, and perform image classification. It covers important stages of a Deep Learning workflow, including data preparation, image preprocessing, model building, training, testing, and evaluation.
-
 > **Note:** This project is developed for educational and learning purposes.
-
----
-
-## 📌 About the Project
-
+# About the Project:
 Image Recognition is an important application of **Computer Vision and Artificial Intelligence**.
-
 Convolutional Neural Networks are particularly useful for image-related tasks because they can automatically learn spatial features such as edges, shapes, textures, and more complex visual patterns from image data.
-
 This project explores the implementation of a CNN-based model for image recognition and classification using Python and Deep Learning tools.
-
 The main project files are located inside:
-
 ```text
 Image Recognition/
+Image Recognition Project Code.ipynb
 ```
-
----
-
-## 🎯 Project Objectives
+# Project Objectives:
 
 * Understand the fundamentals of Image Recognition.
 * Learn how CNNs work with image data.
