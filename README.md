@@ -229,3 +229,7 @@ Model performance depends on factors such as:
 * Training parameters.
 * Hardware resources.
 Therefore, performance on a particular dataset should not automatically be assumed to generalize to other image datasets.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
