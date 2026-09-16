@@ -48,32 +48,32 @@ Image Classification.
 A **Convolutional Neural Network (CNN)** is a Deep Learning architecture commonly used for processing image data.
 A typical CNN consists of several layers that progressively learn visual features from images.
 # Main CNN Components:
-**1. Convolutional Layer:**
+## 1. Convolutional Layer:
 Extracts important features from an image using filters or kernels.
 
 ---
 
-**2. Activation Function:**
+## 2. Activation Function:
 Introduces non-linearity into the neural network. ReLU is commonly used in CNN architectures.
 
 ---
 
-**3. Pooling Layer:**
+## 3. Pooling Layer:
 Reduces the spatial dimensions of feature maps while retaining important information.
 
 ---
 
-**4. Flatten Layer:**
+## 4. Flatten Layer:
 Converts multidimensional feature maps into a one-dimensional vector.
 
 ---
 
-**5. Dense Layer:**
+## 5. Dense Layer
 Processes the extracted features for classification.
 
 ---
 
-**6. Output Layer:**
+## 6. Output Layer:
 Produces the final class prediction.
 ### CNN Architecture:
 ```text
