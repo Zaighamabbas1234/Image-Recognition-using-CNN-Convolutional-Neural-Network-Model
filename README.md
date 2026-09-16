@@ -142,7 +142,7 @@ The trained CNN can be evaluated using classification metrics such as:
 * F1-Score.
 * Confusion Matrix.
 * Classification Report.
-Example:
+# Example:
 ```python
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
